@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Playfair Display', serif;
+}
+.first{
+    height: 400vh;
+}
+.container {
+    position: relative;
+    height: 750px;
+    overflow: hidden;
+    background: url(img/inicial.png);
+    background-size: cover;
+}
+h1 {
+    font-size: 600%;
+    color: white;
+    position: relative;
+    right: 20%;
+    top: 25%;
+    text-align: center;
+}
+.box {
+    background-color: black;
+    height: 70px;
+    width: 500px;
+    position: relative;
+    top: 80%;
+    left: 13%;
+}
+p {
+    color: white;
+    font-size: 200%;
+    position: relative;
+    text-align: center;
+    top: 10%;
+}
