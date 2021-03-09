@@ -1,7 +1,6 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Playfair Display', serif;
 }
 .first{
     height: 400vh;
@@ -12,8 +11,13 @@
     overflow: hidden;
     background: url(img/inicial.png);
     background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 h1 {
+    font-family: 'Playfair Display', serif;
     font-size: 600%;
     color: white;
     position: relative;
@@ -30,9 +34,10 @@ h1 {
     left: 13%;
 }
 p {
+    font-family: 'Playfair Display SC', serif;
     color: white;
     font-size: 200%;
-    position: relative;
     text-align: center;
-    top: 10%;
+    position: relative;
+    top: 15%;
 }
