@@ -1,4 +1,5 @@
 .sobre {
+    overflow: hidden;
     background-color: #d4bdad;
     height: 100vh;
     width: 100%;
