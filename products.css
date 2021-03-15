@@ -36,9 +36,3 @@
 .single-box:nth-child(1) .img-area{
     background-image:url(img/1.png);
 }
-.single-box:nth-child(2) .img-area{
-    background-image:url(img/);
-}
-.single-box:nth-child(3) .img-area{
-    background-image:url(img/);
-}

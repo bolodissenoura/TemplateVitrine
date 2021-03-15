@@ -1,5 +1,4 @@
 .sobre {
-    overflow: hidden;
     background-color: #d4bdad;
     height: 100vh;
     width: 100%;
@@ -15,7 +14,7 @@ h2 {
 }
 .description{
     font-family: sans-serif;
-    color: white;
+    color: #293039;
     font-size: 3vh;
     text-align: center;
     position: relative;
