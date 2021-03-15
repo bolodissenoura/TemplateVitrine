@@ -12,7 +12,7 @@
     position: relative;
     height: 750px;
     overflow: hidden;
-    background: url(img/1.png);
+    background: url(img/bkgrond.png);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -26,20 +26,19 @@ h1 {
     position: relative;
     text-align: center;
 }
-.box {
-    background-color: black;
-    height: 70px;
-    width: 300px;
-    position: relative;
-    top: 60%;
-    left: 5%;
-    border-radius: 30px;
-}
 .mostre {
-    font-family: 'Playfair Display SC', serif;
+    background-color: black;
+    box-shadow: 10px 10px 10px black; 
+    border: none;
     color: white;
-    font-size: 150%;
+    padding: 15px 32px;
     text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    cursor: pointer;
     position: relative;
-    top: 25%;
-}
+    top: 70%;
+    left: 30%;
+  }
