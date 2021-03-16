@@ -1,0 +1,39 @@
+.clientes-area{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.clientes{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: auto;
+    border-radius: 4px;
+    background-color: #885C83;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    transition: .3s;
+    box-shadow: 10px 10px #293039;
+}
+.img-clientes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    border: 6px solid black;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    padding: 20px;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+}
+.clientes:nth-child(1) .img-clientes{
+    background-image:url(img/eumemo.jpg);
+}
