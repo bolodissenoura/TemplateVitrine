@@ -20,7 +20,7 @@
     transition: .3s;
     box-shadow: 10px 10px #293039;
 }
-.img-clientes{
+.img-clientes, .img-clientesdois, .img-clientestres{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -34,8 +34,14 @@
     background-size: cover;
     background-position: center center;
 }
-.clientes:nth-child(1) .img-clientes{
+.img-clientes{
     background-image:url(img/eumemo.jpg);
+}
+.img-clientesdois{
+    background-image:url(img/Viviane.jpg);
+}
+.img-clientestres{
+    background-image:url(img/rubens.jpg);
 }
 .containertwo {
     position: relative;
@@ -51,6 +57,7 @@
 h3{
     font-family: 'Playfair Display', serif;
     font-size: 300%;
+    text-shadow:1px 1px white;
     color: black;
     position: relative;
     text-align: center;
