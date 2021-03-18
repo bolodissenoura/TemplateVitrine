@@ -24,21 +24,10 @@ h1 {
     font-size: 500%;
     color: black;
     position: relative;
+    top: 20vh;
     text-align: center;
 }
-.mostre {
-    background-color: black;
-    box-shadow: 10px 10px 10px black; 
-    border: none;
+.logoone {
     color: white;
-    padding: 15px 100px;
-    text-align: center;
-    text-decoration: none;
-    display: flex;
-    font-size: 16px;
-    border-radius: 30px;
-    cursor: pointer;
-    position: relative;
-    top: 70%;
-    left: 20px;
-  }
+    font-family: sans-serif;
+}

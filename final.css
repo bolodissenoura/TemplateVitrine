@@ -48,3 +48,10 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+h3{
+    font-family: 'Playfair Display', serif;
+    font-size: 300%;
+    color: black;
+    position: relative;
+    text-align: center;
+}
