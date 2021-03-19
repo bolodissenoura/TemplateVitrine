@@ -13,17 +13,14 @@
     width: 300px;
     height: auto;
     border-radius: 4px;
-    background-color: black;
+    background-color: pink;
     text-align: center;
     margin: 20px;
     padding: 20px;
     transition: .3s;
     box-shadow: 10px 10px #293039;
 }
-.pdescription{
-    color: white;
-}
-.img-area,.img-areadois, .img-areatres{
+.img-area{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -37,21 +34,6 @@
     background-size: cover;
     background-position: center center;
 }
-.img-area{
-    background-image:url(img/AIRFORCE1.jpg);
+.single-box:nth-child(1) .img-area{
+    background-image:url(img/1.png);
 }
-.img-areadois{
-    background-image:url(img/AirJD1.jpg);
-}
-.img-areatres{
-    background-image:url(img/AirJD2.jpg);
-}.todosprodutos{
-    background-color: black;
-    box-shadow: 0 5px 0 darkred;
-    color: white;
-    padding: 1em 1.5em;
-    position: relative;
-    text-decoration: none;
-    text-transform: uppercase;
-  }
-  

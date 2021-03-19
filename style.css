@@ -10,9 +10,9 @@
 }
 .container {
     position: relative;
-    height: 100vh;
+    height: 750px;
     overflow: hidden;
-    background: url(img/logo.png);
+    background: url(img/bkgrond.png);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -30,7 +30,4 @@ h1 {
 .logoone {
     color: white;
     font-family: sans-serif;
-}
-span{
-    color: #D9D2C0;
 }
