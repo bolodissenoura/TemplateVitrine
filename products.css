@@ -20,7 +20,7 @@
     transition: .3s;
     box-shadow: 10px 10px #293039;
 }
-.img-area{
+.produtoum,.produtodois, .produtotres{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -34,6 +34,19 @@
     background-size: cover;
     background-position: center center;
 }
-.single-box:nth-child(1) .img-area{
+.produtoum,.produtodois, .produtotres{
     background-image:url(img/1.png);
+}
+.todosprodutos{
+    text-align: center;
+    position: relative;
+    font-size: 4vh;
+    text-decoration: none;
+    background-color: pink;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+a{
+    color: #293039;
+    text-decoration: none;
 }
