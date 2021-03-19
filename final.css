@@ -43,18 +43,9 @@
 .img-clientestres{
     background-image:url(img/rubens.jpg);
 }
-.pix{
-    background-image: url(img/logo-pix-icone-1024.png);
-}
-.segundopasso{
-    background-image: url(img/whats.png);
-}
-.terceiropasso{
-    background-image: url(img/felicidade.png);
-}
 .containertwo {
     position: relative;
-    height: 250vh;
+    height: 200vh;
     overflow: hidden;
     background: url(img/bkgrond.png);
     background-size: cover;
@@ -71,16 +62,13 @@ h3{
     position: relative;
     text-align: center;
 }
-.pix, .segundopasso, .terceiropasso{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
-    margin-bottom: 10px;
-    padding: 20px;
-    -webkit-background-size: cover;
-    background-size: cover;
-    background-position: center center;
+h4{
+    font-family:sans-serif;
+    font-size: 150%;
+    color: white;
+    position: relative;
+    text-align: center;
+}
+.cop{
+    background-color: black;
 }
