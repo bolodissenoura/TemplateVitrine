@@ -13,3 +13,7 @@ COMPUTER SCREEN // MOBILE SCREEN :
 
 
 <img src="https://media.giphy.com/media/eYBhxfyWNgprUcHWxL/giphy.gif" width="800" height="400" />
+
+------------------------------------------------------------
+@daniellimae on instagram //
+email : danielunivap@outlook.com
