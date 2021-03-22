@@ -4,7 +4,7 @@ Utilizei HTML5 e CSS; Responsivo para todas as telas;
 
 📢This was a template project for local stores in my city, where I will use html and css to sell standard websites.
 
-I used HTML5 and CSS; Responsive for all screens; Made on demand, as requested by the designers;
+I used HTML5 and CSS; Responsive for all screens;
 
 -------------------------------------------------------------------------------
 
