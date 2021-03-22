@@ -12,4 +12,4 @@ COMPUTER SCREEN // MOBILE SCREEN :
 <img src="https://media.giphy.com/media/Y2dnFI6sHh6ngOC2ML/giphy.gif" width="800" height="400" />
 
 
-<img src="https://media.giphy.com/media/5U2iiDTawxVCgjE4UJ/giphy.gif" width="800" height="400" />
+<img src="https://media.giphy.com/media/eYBhxfyWNgprUcHWxL/giphy.gif" width="800" height="400" />
